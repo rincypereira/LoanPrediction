@@ -1,5 +1,7 @@
 # LoanPrediction
 "Analyzing the Relationship Between Financial Indicators and Personal Loan Acceptance"
+
+
 Problem Statement:
 The objective of this study is to analyze a dataset containing information on various financial metrics and customer characteristics to predict the likelihood of personal loan acceptance. The dataset includes discrete columns such as the number of customers' families, customers' education, presence of a Securities Account, CD Account, and Online services usage. Additionally, continuous features like Age, Experience, Income, CCAvg (average credit card spending), and Mortgage are provided.
 
